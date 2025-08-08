@@ -1,4 +1,4 @@
-# ðŸŽ­ Playwright Automation Framework
+# Playwright Automation Framework
 
 [![Tests](https://github.com/amit-org/DemoFramework_PlayWright/workflows/Playwright%20Tests/badge.svg)](https://github.com/amit-org/DemoFramework_PlayWright/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -63,7 +63,7 @@ npm test
 npm run report
 ```
 
-**That's it!** ðŸŽ‰ Your framework is ready for testing.
+**That's it!** ‰ Your framework is ready for testing.
 
 ---
 
@@ -1494,7 +1494,7 @@ Have a bug or feature request? Please use our issue templates:
 - [Page Object Model Pattern](https://martinfowler.com/bliki/PageObject.html)
 - [Test Automation Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
-#### **ðŸŽ¥ Video Resources**
+#### **¥ Video Resources**
 - [Playwright Framework Setup Tutorial](https://youtube.com/watch?v=your-video)
 - [Advanced Testing Patterns](https://youtube.com/watch?v=your-video)
 - [CI/CD Integration Guide](https://youtube.com/watch?v=your-video)
@@ -1584,7 +1584,7 @@ npm install && npx playwright install
 npm test
 ```
 
-**ðŸŽ­ Happy Testing with Playwright! âœ¨**
+**­ Happy Testing with Playwright! âœ¨**
 
 ---
 
